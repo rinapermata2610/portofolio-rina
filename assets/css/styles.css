@@ -157,6 +157,9 @@ img {
   color: var(--second-color);
 }
 .nav__toggle {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;   /* pindahkan ke kanan */
   color: var(--second-color);
   font-size: 1.5rem;
   cursor: pointer;

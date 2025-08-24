@@ -48,37 +48,17 @@ const sr = ScrollReveal({
     distance: '60px',
     duration: 2000,
     delay: 200,
-    reset: true 
+    // reset: true 
 });
 
-/* Home */
-sr.reveal('.home__data'); 
-sr.reveal('.home__img', { delay: 400 }); 
-sr.reveal('.home__social-icon', { interval: 200 }); 
-
-/* About */
-sr.reveal('.about__img'); 
-sr.reveal('.about__subtitle, .about__text', { delay: 400 }); 
-
-/* Skills */
-sr.reveal('.skills__subtitle, .skills__text'); 
-sr.reveal('.skills__img', { delay: 400 }); 
-sr.reveal('.skills__data', { interval: 200 }); 
-
-/* Education */
-sr.reveal('.education .work__img', { interval: 200 }); 
-
-/* Projects */
-sr.reveal('.project__card, .project__img', { interval: 200 }); 
-
-/* Experience */
-sr.reveal('.experience__card, .experience__item', { interval: 200 }); 
+sr.reveal('.home__data, .about__img, .skills__subtitle, .skills__text',{}); 
+sr.reveal('.home__img, .about__subtitle, .about__text, .skills__img',{delay: 400}); 
+sr.reveal('.home__social-icon',{ interval: 200}); 
+sr.reveal('.skills__data, .work__img, .contact__info',{interval: 200}); 
+sr.reveal('.work__container',{interval: 200});          
+sr.reveal('.experience__container',{interval: 200});    
+sr.reveal('.goals__container',{delay: 300});           
 
 /* Certificates */
-sr.reveal('.certificate__card', { interval: 200 }); 
-
-/* Goals */
-sr.reveal('.future__container, .future__title', { interval: 200 }); 
-
-/* Contact */
-sr.reveal('.contact__info', { interval: 200 });
+sr.reveal('.certificate__container',{delay: 200});  
+sr.reveal('.certificate__card',{interval: 200});  
