@@ -32,31 +32,31 @@ PORTOFOLIO-RINA-PERMATA-DEWI/
 │── README.md
 │
 ├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   │
-│   ├── img/
-│   │   ├── about.png
-│   │   ├── cendekia.png
-│   │   ├── ielts.png
-│   │   ├── polban.png
-│   │   ├── profile.png
-│   │   ├── sertifikat1.png
-│   │   ├── sertifikat2.png
-│   │   ├── sertifikat3.png
-│   │   ├── sertifikat4.png
-│   │   ├── sertifikat5.png
-│   │   ├── sertifikat6.png
-│   │   ├── skills.png
-│   │   ├── smk.png
-│   │   ├── smp.png
-│   │   └── umroh.png
-│   │
-│   └── js/
-│       └── main.js
+│ ├── css/
+│ │ └── styles.css
+│ │
+│ ├── img/
+│ │ ├── about.png
+│ │ ├── cendekia.png
+│ │ ├── ielts.png
+│ │ ├── polban.png
+│ │ ├── profile.png
+│ │ ├── sertifikat1.png
+│ │ ├── sertifikat2.png
+│ │ ├── sertifikat3.png
+│ │ ├── sertifikat4.png
+│ │ ├── sertifikat5.png
+│ │ ├── sertifikat6.png
+│ │ ├── skills.png
+│ │ ├── smk.png
+│ │ ├── smp.png
+│ │ └── umroh.png
+│ │
+│ └── js/
+│ └── main.js
 │
 └── scss/
-    └── styles.scss
+└── styles.scss
 
 ---
 
