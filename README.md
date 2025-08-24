@@ -25,41 +25,6 @@ Website portofolio ini dirancang sebagai representasi digital untuk menampilkan 
 
 ---
 
-## Struktur Proyek
-PORTOFOLIO-RINA-PERMATA-DEWI/
-│── index.html
-│── preview.png
-│── README.md
-│
-├── assets/
-│ ├── css/
-│ │ └── styles.css
-│ │
-│ ├── img/
-│ │ ├── about.png
-│ │ ├── cendekia.png
-│ │ ├── ielts.png
-│ │ ├── polban.png
-│ │ ├── profile.png
-│ │ ├── sertifikat1.png
-│ │ ├── sertifikat2.png
-│ │ ├── sertifikat3.png
-│ │ ├── sertifikat4.png
-│ │ ├── sertifikat5.png
-│ │ ├── sertifikat6.png
-│ │ ├── skills.png
-│ │ ├── smk.png
-│ │ ├── smp.png
-│ │ └── umroh.png
-│ │
-│ └── js/
-│ └── main.js
-│
-└── scss/
-└── styles.scss
-
----
-
 ## Link Deploy
 Website ini sudah berhasil *deploy* melalui GitHub Pages dan dapat diakses di:  
 👉 [Portofolio Rina Permata Dewi](https://rinapermata2610.github.io/portfolio-rina/)  
