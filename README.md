@@ -27,7 +27,7 @@ Website portofolio ini dirancang sebagai representasi digital untuk menampilkan 
 
 ## Link Deploy
 Website ini sudah berhasil *deploy* melalui GitHub Pages dan dapat diakses di:  
-👉 [Portofolio Rina Permata Dewi](https://rinapermata2610.github.io/portfolio-rina/)  
+👉 [Portofolio Rina Permata Dewi](https://portofolio-rina.vercel.app/)  
 
 ---
 
